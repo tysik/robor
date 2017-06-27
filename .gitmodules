@@ -1,0 +1,12 @@
+[submodule "robor_utilities"]
+	path = robor_utilities
+	url = https://github.com/tysik/robor_utilities
+[submodule "robor_controllers"]
+	path = robor_controllers
+	url = https://github.com/tysik/robor_controllers
+[submodule "obstacle_detector"]
+	path = obstacle_detector
+	url = https://github.com/tysik/obstacle_detector
+[submodule "youbot_base_driver"]
+	path = youbot_base_driver
+	url = https://github.com/tysik/youbot_base_driver
