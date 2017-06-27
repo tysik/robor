@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+
+  <name>robor</name>
+  <version>1.0.0</version>
+  <description>Various modules for Robor project</description>
+  <maintainer email="mateusz.przybyla@put.poznan.pl">Mateusz Przybyla</maintainer>
+  <author>Mateusz Przybyla</author>
+  <license>BSD</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>robor_controllers</run_depend>
+  <run_depend>robor_utilities</run_depend>
+  
+  <export>
+     <metapackage/>
+  </export>
+
+</package>
